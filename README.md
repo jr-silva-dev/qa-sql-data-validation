@@ -1,6 +1,6 @@
 # Validação de dados com SQL e pytest
 
-![CI](https://github.com/SEU-USUARIO/qa-sql-data-validation/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/jr-silva-dev/qa-sql-data-validation/actions/workflows/ci.yml/badge.svg)
 
 Projeto de QA que valida a **integridade dos dados de um banco digital fictício** usando consultas SQL, automatizadas com Python e pytest. Mostra como um QA usa SQL para validar massa de dados, saldos e transferências, que é uma rotina comum em times de produtos financeiros.
 
